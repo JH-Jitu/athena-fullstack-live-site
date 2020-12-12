@@ -53,7 +53,8 @@ const Footer = () => {
             </div>
 
             <div className="text-center text-default">
-                <p style={{ fontWeight: 'bold' }}>© Copyright <a href="https://github.com/touhedulhaque">Md Touhedul Haque</a>, <a href="https://github.com/zabir1998">Zabir Siddique</a> and <a href="https://github.com/jh-jitu">Md Jidanul Hakim Jitu</a>   {(new Date()).getFullYear()} All Rights Reserved. (Team 54.5 oriented by <a href="https://www.programming-hero.com/">Programming Hero</a>) . </p>
+                <p style={{ fontWeight: 'bold' }}>© Copyright <a href="https://github.com/touhedulhaque">Md Touhedul Haque</a>, <a href="https://github.com/zabir1998">Zabir Siddique</a> and <a href="https://github.com/jh-jitu">Md Jidanul Hakim Jitu</a>   {(new Date()).getFullYear()} All Rights Reserved. (Team 54.5 oriented by <a href="https://www.programming-hero.com/">Programming Hero</a>) [Landing Page] . </p>
+                <p style={{ fontWeight: 'bold' }}>© Copyright <a href="https://github.com/jh-jitu">Md Jidanul Hakim Jitu</a> {(new Date()).getFullYear()} All Rights Reserved. [Front-end &amp; Back-end]. </p>
             </div>
 
 
